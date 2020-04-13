@@ -1,0 +1,19 @@
+body{background:grey}
+
+h1{font-family: Helvetica; 
+    font-size: 24pt; 
+    color:#E8371B;
+    background:white}
+
+p{font-family: Helvetica; 
+    font-size: 20pt; 
+    color:Blue;}
+
+a{font-family: Helvetica; 
+    font-size: 20pt;  
+    text-decoration: none;}
+
+a:visited {color: white;}
+a:hover {color: red;}
+
+img {margin-left: 100px; border-style: dotted; border-color: black;}
